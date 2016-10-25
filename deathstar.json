@@ -8,11 +8,17 @@
 	"backuppower": "darkmatter reactor",
 	"boostpower": "AT-1000",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "exercise" : "new exercise",
 =======
-  "specification": {
 >>>>>>> ab259d61aaea8b9df70493d72a53554320f48a31
 		"scale": "km",	
+=======
+	"exercise1" : "excercise1",
+	"soki": "chrisna",
+	"specification": {
+		"scale": "km",
+>>>>>>> 285371077545d83b851ba347baddba890d82dced
 		"lenght": 120,
 		"width": 120,
 		"height": 120
