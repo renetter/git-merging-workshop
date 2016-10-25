@@ -7,8 +7,9 @@
 	"powersource": "hypermatter reactor",
 	"backuppower": "darkmatter reactor",
 	"boostpower": "AT-1000",
+	"soki": "chrisna",
 	"specification": {
-		"scale": "km",	
+		"scale": "km",
 		"lenght": 120,
 		"width": 120,
 		"height": 120
