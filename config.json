@@ -1,5 +1,6 @@
 {
     "applicationId" : "01",
     "applicationName" : "workshop1",
-    "customConfig1" : "customConfig1"
+    "customConfig1" : "customConfig1",
+    "customConfig2": "customConfig2"
 }
