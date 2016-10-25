@@ -7,7 +7,6 @@
 	"powersource": "hypermatter reactor",
 	"backuppower": "darkmatter reactor",
 	"boostpower": "AT-1000",
-	"admiral" : "thrawn",
   "specification": {
 		"scale": "km",	
 		"lenght": 120,
