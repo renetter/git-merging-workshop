@@ -7,8 +7,8 @@
 	"powersource": "hypermatter reactor",
 	"backuppower": "darkmatter reactor",
 	"boostpower": "AT-1000",
-	"exercise1" : "excel"
-	"specification": {
+	"exercise1" : "excercise1",
+  "specification": {
 		"scale": "km",	
 		"lenght": 120,
 		"width": 120,
