@@ -3,7 +3,7 @@
 	"name": "Death Star",
 	"identifier": "DS-1 platform",
 	"commander": "Grand Moff",
-	"weapon": ["superlaser", "tractor beam", "turbolaser", "death ray", "super rocket"],
+	"weapon": ["superlaser", "tractor beam", "turbolaser", "death ray", "super rocket", "the dark side"],
 	"powersource": "hypermatter reactor",
 	"backuppower": "darkmatter reactor",
 	"boostpower": "AT-1000",
