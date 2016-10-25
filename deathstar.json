@@ -8,6 +8,7 @@
 	"backuppower": "darkmatter reactor",
 	"boostpower": "AT-1000",
 	"donnyexercise": "19",
+	"exercise1" : "excercise1",
   "specification": {
 		"scale": "km",	
 		"lenght": 120,
