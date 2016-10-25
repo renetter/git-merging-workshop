@@ -1,4 +1,5 @@
 {
     "applicationId" : "01",
-    "applicationName" : "workshop1"
+    "applicationName" : "workshop1",
+    "customConfig1" : "customConfig1"
 }
