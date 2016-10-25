@@ -6,6 +6,7 @@
 	"weapon": ["superlaser", "tractor beam", "turbolaser", "death ray", "super rocket"],
 	"powersource": "hypermatter reactor",
 	"backuppower": "darkmatter reactor",
+	"boostpower": "AT-1000",
 	"specification": {
 		"scale": "km",	
 		"lenght": 120,
