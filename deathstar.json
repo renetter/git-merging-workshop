@@ -5,6 +5,7 @@
 	"commander": "Grand Moff",
 	"weapon": ["superlaser", "tractor beam", "turbolaser", "death ray", "super rocket"],
 	"powersource": "hypermatter reactor",
+	"backuppower": "darkmatter reactor",
 	"specification": {
 		"scale": "km",	
 		"lenght": 120,
