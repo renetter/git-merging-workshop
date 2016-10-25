@@ -7,10 +7,11 @@
 	"powersource": "hypermatter reactor",
 	"backuppower": "darkmatter reactor",
 	"boostpower": "AT-1000",
+    "exercise" : "new exercise",
+	"scale": "km",	
 	"exercise1" : "excercise1",
-	"excercise11": "exerciseRendi",
+	"soki": "chrisna",
 	"specification": {
-		"scale": "km",	
 		"lenght": 120,
 		"width": 120,
 		"height": 120
